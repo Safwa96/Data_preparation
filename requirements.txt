@@ -3,5 +3,6 @@ numpy == 1.16.5
 seaborn == 0.9.0
 matplotlib == 3.1.1
 watermark == 2.0.2
-sklearn == 0.21.3
 joblib == 0.13.2
+sklearn == 0.21.3
+
